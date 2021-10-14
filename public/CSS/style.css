@@ -1,0 +1,142 @@
+
+.bg{
+    background:#f5f5f5;
+}
+.headerset{
+    box-sizing: border-box;
+}
+
+.carousel-inner{
+    width: 100%;
+    height: 650px;
+}
+
+.img1{
+    background-image: url('../Images/bg1.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+    opacity: 0.9;
+}
+.img2{
+    background-image: url('../Images/bg2.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+.img3{
+    background-image: url('../Images/bg3.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+.hea1{
+    box-sizing: border-box;
+    padding-top: 200px;
+}
+.head1{
+    font-weight: 200px;
+    font-size: 65px;
+    color: black;
+}
+.head2{
+    color: black;
+}
+.hr1{
+    border: 1px solid;
+    margin-left: 100px;
+    width: 165px;
+    color: black;   
+}
+.hr2{
+    border: 1px solid;
+    margin-left: 100px;
+    margin-top: -12px;
+    width: 87px;
+    color: black;   
+}
+/* .b1{
+    margin-left: -10px;
+} */
+.sec2{
+    background: #ffffff;
+    width: 660px;
+    float: right;
+    /* margin-left: -33px; */
+}
+.sec3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+.sec4{
+    background-color: #0192d1;
+
+}
+.s7{
+    margin-left: -10px;
+}
+.s8{
+    margin-left: -20px;
+}
+.s9{
+    margin-left: -30px;
+}
+.s10{
+    background-color: #0192d1;
+    color: white;
+}
+.s11{
+    font-size: 8px;
+}
+.s12{
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.s13{
+    margin-left: -25px;
+    margin-right: -25px;
+}
+.s14{
+    font-size: 8px;
+    margin-left: -15px;
+}
+.stars{
+    font-size: 10px;
+}
+.rev1{
+    color: gray;
+    font-family: cursive;
+}
+.t1{
+    font-size: 11px;
+}
+.f1{
+    background-image: url('../Images/lake1.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+    opacity: 0.9;
+}
+.f11{
+    background-color: #334c82;
+}
+.f12, .active{
+    background-color: #29c3f7;
+}
+.f13{
+    background-color: #c10894;
+}
+.f14{
+    background-color: #de3e7c;
+}
+.f15{
+    background-color: #cc2127;
+}
+.f16{
+    background-color: #1a1a1a;
+}
